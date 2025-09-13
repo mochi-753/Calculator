@@ -1,0 +1,3 @@
+{
+  "message.calculator.login": "警告: Calculatorは計算にdouble型を使用しているため、計算結果に誤差が生じる場合があります。この警告はコンフィグでオフにできます。"
+}
